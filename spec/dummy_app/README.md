@@ -1,7 +1,7 @@
 ## TheSortableTree Test Application
 
-* Ruby 2.3.3
-* Rails 4
+* Ruby 2.6.6
+* Rails 6
 * Haml 4
 * the_sortable_tree
 
